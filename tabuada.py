@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""imprime a tabuada do a 10"""
+"""imprime a tabuada 1 do a 10"""
 __version__ = "0.1.0"
 __author__ = "Gledson"
 
